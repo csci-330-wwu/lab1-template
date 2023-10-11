@@ -1,7 +1,3 @@
-create database yourusername_university;
-
-use yourusername_university;
-
 create table department
 (dept_name varchar (20),
 building varchar (15),
