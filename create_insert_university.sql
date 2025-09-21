@@ -1,6 +1,6 @@
 -- create and use a database
-CREATE DATABASE IF NOT EXISTS university;
-USE university;
+-- CREATE DATABASE IF NOT EXISTS university;
+-- USE university;
 
 -- create the university table
 create table department
